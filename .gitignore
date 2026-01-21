@@ -1,0 +1,17 @@
+*.jar
+
+*.jar.original
+
+*.class
+
+pom.properties
+
+*.lst
+
+*.dumpstream
+
+*.txt
+
+TEST-com.example.StudentAnalyzerTest.xml
+
+node_modules
